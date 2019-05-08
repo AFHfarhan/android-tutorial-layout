@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="merah">#DF00</color>
+    <color name="hijau">#00FF00</color>
+    <color name="biru">#0f0fe2</color>
+    <color name="shiro">#fdfdfd</color>
+    <color name="color_5">#656565</color>
+    <color name="color_6">#989894</color>
+    <color name="color_7">#E02228</color>
+    <color name="color_8">#FD4700</color>
+    <color name="kuro">#1E1E1E</color>
+
+
+</resources>
